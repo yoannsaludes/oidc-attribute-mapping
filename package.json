@@ -1,0 +1,19 @@
+{
+  "name": "oidc-attribute-mapping",
+  "version": "1.0.0",
+  "description": "Wordpress complementary plugin of OpenID Connect Generic - mapping additional attributes tu user metadata",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoannsaludes/oidc-attribute-mapping.git"
+  },
+  "keywords": [
+    "oidc",
+    "attribute",
+    "sso",
+    "OpenID"
+  ],
+  "author": "Yoann Saludes <yoann@saludes.fr>",
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/yoannsaludes/oidc-attribute-mapping"
+}

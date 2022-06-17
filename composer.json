@@ -1,0 +1,20 @@
+{
+    "name": "ysaludes/oidc-attribute-mapping",
+    "description": "Complementary plugin of OpenID Connect Generic - mapping additional attributes to user metadata",
+    "type": "wordpress-muplugin",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Yoann Saludes",
+            "email": "yoann@saludes.fr"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "require-dev": {
+        "twig/twig": "~1.9",
+        "phpdocumentor/phpdocumentor": "^2.0",
+        "fr3nch13/phpdoc-markdown": "^1.0"
+    }
+}

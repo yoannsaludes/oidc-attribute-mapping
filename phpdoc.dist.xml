@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdoc>
+	<title>OpenID Connect Attribute mapping</title>
+	<parser>
+		<target>docs</target>
+	</parser>
+	<transformer>
+		<target>docs</target>
+	</transformer>
+	<transformations>
+		<template name="vendor/fr3nch13/phpdoc-markdown/data/templates/markdown" />
+	</transformations>
+	<files>
+		<file>oidc-attribute-mapping.php</file>
+	</files>
+</phpdoc>
